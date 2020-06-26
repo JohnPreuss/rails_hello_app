@@ -1,5 +1,10 @@
 # README
 
+This is a brand new "hello, world" application created using the
+[Ruby on Rails Tutorial](https://www.learnenough.com/ruby-on-rails-4th-edition)
+by Michael Hartl.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
